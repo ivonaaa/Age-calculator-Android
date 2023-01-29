@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/home"/>
+    <item android:title="Days to YMD"
+        android:id="@+id/days"
+        android:icon="@drawable/date"/>
+    <item android:title="Date to days"
+        android:id="@+id/birthday"
+        android:icon="@drawable/birthday"/>
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Age calculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Welcome to age calculator!</string>
+    <string name="chooseDateButton">Choose a date</string>
+    <string name="numofdays">Enter number of days:</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="years">Number of years:</string>
+    <string name="months">Number of months:</string>
+    <string name="days">Number of days:</string>
+
+</resources>
